@@ -1,6 +1,7 @@
 {
   "name": "tarot-front",
   "version": "0.1.0",
+  "homepage": "https://tarayoo.github.io/TarotFrontEnd/",
   "private": true,
   "dependencies": {
     "react": "^16.10.1",
